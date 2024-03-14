@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="overflow-hidden">
           <div className="mx-auto max-w-7xl px-6 pb-16 pt-16 sm:pt-16 lg:px-8 lg:pt-16">
             <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
-              <div className="mx-auto relative w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
+              <div className="mx-auto relative basis-40 w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
                 <h1 className="text-4xl font-bold tracking-tight uppercase text-gray-800 sm:text-6xl xs:text-center sm:text-center md:text-center lg:text-left">
                   Rising Shield
                 </h1>

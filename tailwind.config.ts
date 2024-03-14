@@ -21,6 +21,13 @@ const config = {
       backgroundImage: {
         hero: "url('../public/images/Rising-shield.jpg')",
       },
+      width: {
+        "8xl": "88rem",
+      },
+      flexBasis: {
+        "40": "40%",
+        "60": "60%",
+      },
       colors: {
         "blue-asso": "#154797",
         "or-asso": "#e6be51",
