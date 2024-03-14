@@ -1,4 +1,4 @@
-import { LoginButton, LogoutButton } from "@/components/Auth/AuthButtons";
+import { LoginButton, LogoutButton } from "@/src/components/Auth/AuthButtons";
 import { getAuthSession } from "@/src/lib/auth";
 
 export default async function Page() {
